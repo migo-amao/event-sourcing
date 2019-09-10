@@ -1,0 +1,10 @@
+wei/web/resource/Dummy.class
+wei/web/resource/OrderResource$Helper.class
+wei/config/KafkaConfig.class
+wei/domain/Order.class
+wei/web/resource/Utils.class
+wei/web/resource/OrderSender.class
+wei/serdes/OrderSerializer.class
+wei/OrderServiceApplication.class
+wei/web/resource/OrderResource.class
+wei/domain/ProductLine.class

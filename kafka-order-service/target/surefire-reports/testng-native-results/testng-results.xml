@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="313" started-at="2019-03-27T03:05:05Z" finished-at="2019-03-27T03:05:05Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="313" started-at="2019-03-27T03:05:05Z" finished-at="2019-03-27T03:05:05Z">
+      <class name="wei.web.resource.TestOrderResource">
+        <test-method status="PASS" signature="testOrderRe()[pri:0, instance:wei.web.resource.TestOrderResource@578486a3]" name="testOrderRe" duration-ms="248" started-at="2019-03-27T03:05:05Z" finished-at="2019-03-27T03:05:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrderRe -->
+        <test-method status="PASS" signature="testOrderResource()[pri:0, instance:wei.web.resource.TestOrderResource@578486a3]" name="testOrderResource" duration-ms="8" started-at="2019-03-27T03:05:05Z" finished-at="2019-03-27T03:05:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrderResource -->
+      </class> <!-- wei.web.resource.TestOrderResource -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="0" ignored="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="644" started-at="2019-03-27T03:05:06Z" finished-at="2019-03-27T03:05:06Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="644" started-at="2019-03-27T03:05:06Z" finished-at="2019-03-27T03:05:06Z">
+      <class name="wei.web.resource.OrderResourceTest">
+        <test-method status="SKIP" signature="testNonNumericOrderId() throws java.lang.Exception" name="testNonNumericOrderId" duration-ms="0" started-at="2019-03-27T03:05:06Z" finished-at="2019-03-27T03:05:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNonNumericOrderId -->
+      </class> <!-- wei.web.resource.OrderResourceTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

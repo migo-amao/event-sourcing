@@ -1,0 +1,10 @@
+/home/wei/projects/kafka/kafka-order-service/src/main/java/wei/web/resource/Dummy.java
+/home/wei/projects/kafka/kafka-order-service/src/main/java/wei/domain/ProductLine.java
+/home/wei/projects/kafka/kafka-order-service/src/main/java/wei/config/KafkaConfig.java
+/home/wei/projects/kafka/kafka-order-service/src/main/java/wei/web/resource/Utils.java
+/home/wei/projects/kafka/kafka-order-service/src/main/java/wei/serdes/OrderSerializer.java
+/home/wei/projects/kafka/kafka-order-service/src/main/java/wei/domain/Order.java
+/home/wei/projects/kafka/kafka-order-service/src/main/java/wei/web/resource/Sender.java
+/home/wei/projects/kafka/kafka-order-service/src/main/java/wei/web/resource/OrderSender.java
+/home/wei/projects/kafka/kafka-order-service/src/main/java/wei/web/resource/OrderResource.java
+/home/wei/projects/kafka/kafka-order-service/src/main/java/wei/OrderServiceApplication.java

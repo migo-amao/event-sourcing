@@ -1,0 +1,11 @@
+server.port: 8091
+
+#spring:
+#  kafka:
+#    producer:
+#      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+#      transaction-id-prefix: tx.
+#    consumer:
+#      properties:
+#        isolation.level: read_committed
+#        auto.offset.reset: earliest
